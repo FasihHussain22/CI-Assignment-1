@@ -1,0 +1,7 @@
+[(F, 6), (A, 5), (B, 5), (H, 4), (C, 3), (D, 2), (E, 1), (G, 0)]
+
+Item H
+priority 4
+Index 3
+
+Priority(i-1) > priority > Priority(i) -> insert at index i
